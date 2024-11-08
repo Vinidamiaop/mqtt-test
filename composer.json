@@ -1,0 +1,17 @@
+{
+    "name": "vini/mqtt",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinidamiap",
+            "email": "vinidamiaop@gmail.com"
+        }
+    ],
+    "require": {
+        "php-mqtt/client": "^2.1"
+    }
+}
